@@ -1,9 +1,10 @@
 Deine Software als Medizinprodukt
+=================================
 
 Wir sind VDE Medizinprodukte und Software (VDE MeSo) und helfen Dir bei der CE-Zertifizierung Deiner Software als Medizinprodukt.
 
 Unsere Ressourcen für Dich
-==========================
+---
 
 Hier auf GitHub findest Du Arbeitsmaterialien, die Dich auf den ersten Schritten zum CE-Kennzeichen unterstützen. Und schau Dir doch mal die vielfältigen Angebote auf unserer Internetseite an:
 
@@ -20,7 +21,7 @@ Hier auf GitHub findest Du Arbeitsmaterialien, die Dich auf den ersten Schritten
 -   Gerne [beraten](https://meso.vde.com/de/beratung/) wir Dich auch, um Deine Software als Medizinprodukt auf den Markt zu bringen.
 
 Der Weg zum CE-Kennzeichen
-==========================
+---
 
 Die CE-Zertifizierung wird oftmals auch vereinfacht als Zulassung bezeichnet, d.h. nur mit einem CE-Kennzeichen darfst Du Deine Software auf dem europäischen Markt anbieten. Der Weg dorthin ist nicht einfach, aber mit unserer Unterstützung machbar.
 
@@ -55,7 +56,7 @@ Im Laufe des gemeinsamen Projektes bearbeiten mit Dir die folgenden Arbeitspaket
 Nach der Fertigstellung aller notwendigen Arbeitspakete gratulieren wir Dir zu Deiner Software als Medizinprodukt und wünschen Dir viel Erfolg damit.
 
 Dein Kontakt mit uns
-====================
+---
 
 Nachfolgend findest Du die Ansprechpartner aus unserem Expertenteam:
 
