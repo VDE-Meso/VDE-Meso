@@ -1,5 +1,5 @@
-Deine Software als Medizinprodukt
-=================================
+Deine Software als Medizinprodukt / Your software as medical device
+===================================================================
 
 Wir sind VDE Medizinprodukte und Software (VDE MeSo) und helfen Dir bei der CE-Zertifizierung Deiner Software als Medizinprodukt.
 
