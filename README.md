@@ -76,6 +76,8 @@ Wir freuen uns auf den Kontakt mit Dir!
 We are VDE Medical Devices and Software (VDE MeSo) and help you with the CE certification of your software as a medical device.
   
 <details><summary>English Content</summary>
+
+
 Our resources for you
 ---
 
