@@ -72,3 +72,7 @@ Nachfolgend findest Du die Ansprechpartner aus unserem Expertenteam:
 Wir freuen uns auf den Kontakt mit Dir!
 
 </details>
+
+<details><summary>English Content</summary>
+# To be defined
+</details>
