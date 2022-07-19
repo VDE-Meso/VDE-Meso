@@ -111,6 +111,7 @@ During the joint project we will work with you on the following work packages:
 -   Involvement of Notified Body (generally starting from risk class IIa)
 
 After completion of all necessary work packages, we congratulate you on your software as a medical device and wish you great success with it.
+
 Your contact with us
 ---
 
