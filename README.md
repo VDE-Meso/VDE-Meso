@@ -76,5 +76,50 @@ Wir freuen uns auf den Kontakt mit Dir!
 We are VDE Medical Devices and Software (VDE MeSo) and help you with the CE certification of your software as a medical device.
   
 <details><summary>English Content</summary>
-# To be defined
+Our resources for you
+---
+
+Here on GitHub, you can find resources to help you on your first steps to CE marking. And take a look at the various offers on our website:
+-   In our blog, we explain individual topics related to CE certification. 
+-   With our events you are always well informed and can meet us face to face. 
+-   In our 30-minute free online consultation, we answer questions about the approval of medical devices, medical software, and digital health applications (DiGA).
+-   With our medical device CE roadmap, you'll receive a document tailored to your software with CE certification requirements and associated costs. The CE roadmap document will help you plan time, financial and human resources, as well as engage with external funders. 
+-   To make sure you don't miss anything, you can subscribe to our free weekly newsletter.
+-   We are also happy to advise you on how to get your software onto the market as a medical device.
+The path to the CE mark
+---
+
+The CE certification is often referred to as approval, i.e., only with a CE mark you are allowed to offer your software on the European market. The way there is not easy, but feasible with our support.
+
+In the kick-off meeting of a consulting project, we first develop the intended purpose of your software with you. This is an important first step on the path to the CE mark, because in the intended purpose you describe what exactly your software should do for whom and in what form. The intended purpose is also crucial for the question, which risk class your software has to be assigned to (I = low risk, IIa = medium risk, IIb = increased risk and III = high risk). Roughly speaking, the higher the risk class, the more effort is required for CE certification. After the kick-off meeting, we get into the further project work. Our assistance for you typically looks like this:
+
+
+  
+During the joint project we will work with you on the following work packages:
+-   Establishment of quality management system
+-   Preparation of software development documentation (with special documents for AI-based software)
+-   Implementation of risk management incl. measures for cybersecurity
+-   Implementation of clinical evaluation and, if necessary, clinical study
+-   Investigation of usability
+-   Preparation of instructions for use and labeling
+-   Preparation of technical documentation
+-   Preparation of the CE declaration of conformity
+-   Registration of your product and manufacturer
+-   Planning of the market phase with all obligatory tasks for the manufacturer such as post-market surveillance and vigilance
+-   Involvement of Notified Body (generally starting from risk class IIa)
+
+After completion of all necessary work packages, we congratulate you on your software as a medical device and wish you great success with it.
+Your contact with us
+---
+
+Below you will find the contact persons from our team of experts:
+
+-   [Cord Schlötelburg](https://www.linkedin.com/in/schlotelburg/), <cord.schloetelburg@vde.com>, Tel. +49 69 6308-208
+
+-   [Thorsten Prinz](https://www.linkedin.com/in/thorsten-prinz/), <thorsten.prinz@vde.com>, Tel. +49 69 6308-349
+
+-   [Hans Wenner](https://www.linkedin.com/in/hans-wenner-43242a212/), <hans.wenner@vde.com>, Tel. +49 69 6308-572
+
+We are looking forward to getting in touch with you!  
+  
 </details>
