@@ -88,6 +88,7 @@ Here on GitHub, you can find resources to help you on your first steps to CE mar
 -   With our medical device CE roadmap, you'll receive a document tailored to your software with CE certification requirements and associated costs. The CE roadmap document will help you plan time, financial and human resources, as well as engage with external funders. 
 -   To make sure you don't miss anything, you can subscribe to our free weekly newsletter.
 -   We are also happy to advise you on how to get your software onto the market as a medical device.
+
 The path to the CE mark
 ---
 
