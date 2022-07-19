@@ -96,7 +96,7 @@ The CE certification is often referred to as approval, i.e., only with a CE mark
 
 In the kick-off meeting of a consulting project, we first develop the intended purpose of your software with you. This is an important first step on the path to the CE mark, because in the intended purpose you describe what exactly your software should do for whom and in what form. The intended purpose is also crucial for the question, which risk class your software has to be assigned to (I = low risk, IIa = medium risk, IIb = increased risk and III = high risk). Roughly speaking, the higher the risk class, the more effort is required for CE certification. After the kick-off meeting, we get into the further project work. Our assistance for you typically looks like this:
 
-
+<img src=".//media/image1-engl.png" style="width:6.00004in;height:4.15347in" />
   
 During the joint project we will work with you on the following work packages:
 -   Establishment of quality management system
