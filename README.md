@@ -3,6 +3,9 @@ Deine Software als Medizinprodukt
 
 Wir sind VDE Medizinprodukte und Software (VDE MeSo) und helfen Dir bei der CE-Zertifizierung Deiner Software als Medizinprodukt.
 
+<details><summary>Deutscher Inhalt</summary>
+
+
 Unsere Ressourcen für Dich
 ---
 
@@ -67,3 +70,5 @@ Nachfolgend findest Du die Ansprechpartner aus unserem Expertenteam:
 -   [Hans Wenner](https://www.linkedin.com/in/hans-wenner-43242a212/), <hans.wenner@vde.com>, Tel. +49 69 6308-572
 
 Wir freuen uns auf den Kontakt mit Dir!
+
+</details>
