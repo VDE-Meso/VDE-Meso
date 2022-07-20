@@ -1,7 +1,8 @@
 Deine Software als Medizinprodukt / Your software as medical device
 ===================================================================
 
-Wir sind VDE Medizinprodukte und Software (VDE MeSo) und helfen Dir bei der CE-Zertifizierung Deiner Software als Medizinprodukt.
+
+**Wir sind VDE Medizinprodukte und Software (VDE MeSo) und helfen Dir bei der CE-Zertifizierung Deiner Software als Medizinprodukt.**
 
 <details><summary>Deutscher Inhalt</summary>
 
@@ -73,7 +74,9 @@ Wir freuen uns auf den Kontakt mit Dir!
 
 </details>
 
-We are VDE Medical Devices and Software (VDE MeSo) and help you with the CE certification of your software as a medical device.
+---
+
+**We are VDE Medical Devices and Software (VDE MeSo) and help you with the CE certification of your software as a medical device.**
   
 <details><summary>English Content</summary>
 
