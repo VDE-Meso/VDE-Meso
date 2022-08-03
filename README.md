@@ -115,13 +115,9 @@ After completion of all necessary work packages, we congratulate you on your sof
 Your contact with us
 ---
 
-Below you will find the contact persons from our team of experts:
+Below you will find our contact information:
 
--   [Cord Schlötelburg](https://www.linkedin.com/in/schlotelburg/), <cord.schloetelburg@vde.com>, Tel. +49 69 6308-208
-
--   [Thorsten Prinz](https://www.linkedin.com/in/thorsten-prinz/), <thorsten.prinz@vde.com>, Tel. +49 69 6308-349
-
--   [Hans Wenner](https://www.linkedin.com/in/hans-wenner-43242a212/), <hans.wenner@vde.com>, Tel. +49 69 6308-572
+-   <meso@vde.com>, <https://www.vde.com/topics-de/health/beratung/>, Tel. +49 69 6308-788
 
 We are looking forward to getting in touch with you!  
   
