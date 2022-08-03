@@ -62,15 +62,11 @@ Nach der Fertigstellung aller notwendigen Arbeitspakete gratulieren wir Dir zu D
 Dein Kontakt mit uns
 ---
 
-Nachfolgend findest Du die Ansprechpartner aus unserem Expertenteam:
+Nachfolgend findest Du unsere Kontaktdaten:
 
--   [Cord Schlötelburg](https://www.linkedin.com/in/schlotelburg/), <cord.schloetelburg@vde.com>, Tel. +49 69 6308-208
+-   <meso@vde.com>, <https://www.vde.com/topics-de/health/beratung/>, Tel. +49 69 6308-788
 
--   [Thorsten Prinz](https://www.linkedin.com/in/thorsten-prinz/), <thorsten.prinz@vde.com>, Tel. +49 69 6308-349
-
--   [Hans Wenner](https://www.linkedin.com/in/hans-wenner-43242a212/), <hans.wenner@vde.com>, Tel. +49 69 6308-572
-
-Wir freuen uns auf den Kontakt mit Dir!
+Wir freuen uns auf Deine Nachricht!
 
 </details>
 
