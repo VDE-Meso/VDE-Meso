@@ -1,13 +1,16 @@
-Deine Software als Medizinprodukt / Your software as medical device
-===================================================================
+# Deine Software als Medizinprodukt / Your software as medical device
+
 
 
 **Wir sind VDE Medizinprodukte und Software (VDE MeSo) und helfen Dir bei der CE-Zertifizierung Deiner Software als Medizinprodukt.**
 
+
+## Unsere Ressourcen für Dich
+
+---
+
 <details><summary>Deutscher Inhalt</summary>
 
-
-Unsere Ressourcen für Dich
 ---
 
 Hier auf GitHub findest Du Arbeitsmaterialien, die Dich auf den ersten Schritten zum CE-Kennzeichen unterstützen. Und schau Dir doch mal die vielfältigen Angebote auf unserer Internetseite an:
@@ -22,8 +25,7 @@ Hier auf GitHub findest Du Arbeitsmaterialien, die Dich auf den ersten Schritten
 
 -   Gerne [beraten](https://www.vde.com/topics-de/health/beratung) wir Dich auch, um Deine Software als Medizinprodukt auf den Markt zu bringen.
 
-Der Weg zum CE-Kennzeichen
----
+### Der Weg zum CE-Kennzeichen
 
 Die CE-Zertifizierung wird oftmals auch vereinfacht als Zulassung bezeichnet, d.h. nur mit einem CE-Kennzeichen darfst Du Deine Software auf dem europäischen Markt anbieten. Der Weg dorthin ist nicht einfach, aber mit unserer Unterstützung machbar.
 
@@ -57,8 +59,7 @@ Im Laufe des gemeinsamen Projektes bearbeiten mit Dir die folgenden Arbeitspaket
 
 Nach der Fertigstellung aller notwendigen Arbeitspakete gratulieren wir Dir zu Deiner Software als Medizinprodukt und wünschen Dir viel Erfolg damit.
 
-Dein Kontakt mit uns
----
+### Dein Kontakt mit uns
 
 Nachfolgend findest Du unsere Kontaktdaten:
 
@@ -72,12 +73,11 @@ Wir freuen uns auf Deine Nachricht!
 
 **We are VDE Medical Devices and Software (VDE MeSo) and help you with the CE certification of your software as a medical device.**
   
-<details><summary>English Content</summary>
-
-
-Our resources for you
+---
+## Our resources for you
 ---
 
+<details><summary>English Content</summary>
 Here on GitHub, you can find resources to help you on your first steps to CE marking. And take a look at the various offers on our website:
 -   In our blog, we explain individual topics related to CE certification. 
 -   With our events you are always well informed and can meet us face to face. 
@@ -86,8 +86,7 @@ Here on GitHub, you can find resources to help you on your first steps to CE mar
 -   To make sure you don't miss anything, you can subscribe to our free weekly newsletter.
 -   We are also happy to advise you on how to get your software onto the market as a medical device.
 
-The path to the CE mark
----
+### The path to the CE mark
 
 The CE certification is often referred to as approval, i.e., only with a CE mark you are allowed to offer your software on the European market. The way there is not easy, but feasible with our support.
 
@@ -110,8 +109,7 @@ During the joint project we will work with you on the following work packages:
 
 After completion of all necessary work packages, we congratulate you on your software as a medical device and wish you great success with it.
 
-Your contact with us
----
+### Your contact with us
 
 Below you will find our contact information:
 
